@@ -1,1 +1,1 @@
-# Palindro,meCheckerApp
+# PalindromeCheckerApp
